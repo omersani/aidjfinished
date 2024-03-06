@@ -1,0 +1,37 @@
+#h1
+{
+    font-size: 25px;
+    margin: 0px;
+    box-shadow: 20px;
+    width: 35%;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+#note
+{
+    font-size: 18px;
+}
+
+#h3
+{
+    font-size: 18px;
+}
+
+#heading
+{
+    padding: 12px;
+    margin: 0px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
